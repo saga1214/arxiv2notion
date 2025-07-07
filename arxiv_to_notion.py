@@ -15,18 +15,21 @@ GOOGLE_API_KEY = os.environ.get("GOOGLE_API_KEY")
 
 # ✅ Hard-code non-secret configurations directly in the script
 KEYWORDS = [
-    "audio language model",
-    "speech language model",
-    "speech style",
-    "spoken language model",
-    "speech to speech",
-    "audio to speech",
-    "Omni",
-    "voice assistant",
-    "Audio LLM"
+    "Discrete Diffusion",
+    "Diffusion Language Model",
+    "Diffusion Language",
+    "Embedding Diffusion Model",
+    "Embedding Diffusion",
+    "Masked Diffusion",
+    "Block-wise Decoding",
+    "Reinforcement Learning for Diffusion Language",
+    "Large Diffusion Language Model",
+    "Large Reasoning Diffusion Model",    
+    "Gemini Diffusion",
+    "Cognitive Behavior in Diffusion Language Model",
   ]
 ALLOWED_SUBJECTS = {"cs.CL", "cs.AI", "cs.LG"}
-MY_RESEARCH_AREA = "My research focuses on developing virtual agents that understand user situations by jointly reasoning over user speech and ambient sounds as multimodal input, with a particular emphasis on generating speech with diverse styles using audio language models."
+MY_RESEARCH_AREA = "My research focuses on developing discrete diffusion and embedding diffusion language models, including large reasoning diffusion and Gemini Diffusion frameworks to improve natural language reasoning and generation quality."
 LOOKBACK_DAYS = 60
 
 # Basic check to ensure secrets were loaded
