@@ -92,10 +92,10 @@ The script can be configured via `arxiv_to_notion.py` and GitHub Action secrets.
 
 ---
 
-## 📅 Scheduling & Example
-
+## 📅 Scheduling 
 - Default: **Every day at 09:00 AM KST**
 - To change the schedule, edit the cron expression in `.github/workflows/main.yml`.
-- [Author's Example](https://www.notion.so/SPL-paper-list-2248f62eeae280e191a4f831c41225f7?source=copy_link)
----
 
+---
+## 🔍 Example
+- [Author's Public Example](https://www.notion.so/SPL-paper-list-2248f62eeae280e191a4f831c41225f7?source=copy_link)
