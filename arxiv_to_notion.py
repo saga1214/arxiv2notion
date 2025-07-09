@@ -27,6 +27,8 @@ KEYWORDS = [
     "Large Reasoning Diffusion Model",    
     "Gemini Diffusion",
     "Cognitive Behavior in Diffusion Language Model",
+    "Diffusion LLM",
+    "Diffusion LM",    
   ]
 ALLOWED_SUBJECTS = {"cs.CL", "cs.AI", "cs.LG"}
 MY_RESEARCH_AREA = "My research focuses on developing discrete diffusion and embedding diffusion language models, including large reasoning diffusion and Gemini Diffusion frameworks to improve natural language reasoning and generation quality."
